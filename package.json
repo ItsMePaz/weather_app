@@ -2,7 +2,7 @@
   "name": "async-js",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/ItsMePaz/Weather-Webapp",
+  "homepage": "https://ItsMePaz.github.io/Weather-Webapp",
   "type": "module",
   "scripts": {
     "dev": "vite",
